@@ -1,0 +1,5 @@
+url: 127.0.0.1  # 数据库地址
+userName: root  # 数据库用户名
+password: passw0rd  # 数据库密码
+dbName: go_admin  # 数据库名称，需要手动创建
+port: 3306   # 数据库端口号
